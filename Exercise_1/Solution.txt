@@ -2,7 +2,7 @@
 	FALSE
 
 2. Object state can be saved only by using serialization.
-	TRUE
+	FALSE
 
 3. ObjectOutputStream is a class used to save serialized objects.
 	TRUE
@@ -11,7 +11,7 @@
 	FALSE
 
 5. A single call to writeObject() can cause many objects to be saved.
-	FALSE
+	TRUE
 
 6. All classes are serializable by default.
 	FALSE
